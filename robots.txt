@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /cnt_generator
+
+Sitemaps: https://sue-creator.github.io/sitemap.xml
+
