@@ -1,7 +1,7 @@
 ---
 title: 📊 Learn Rudimentary Computer Skills for Scientists
 linkTitle: Rudimentary Computer Skills
-summary: Rudimentary Computer Skills for Scientists
+summary: VESTA, Python, MATLAB
 date: '2023-03-11'
 type: book
 tags:
