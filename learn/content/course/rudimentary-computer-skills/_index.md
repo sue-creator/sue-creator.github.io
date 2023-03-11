@@ -1,9 +1,9 @@
 ---
-title: 📊 Learn Rudimentary Computer Skills for Scientists
-linkTitle: Rudimentary Computer Skills
-summary: VESTA, Python, MATLAB
+title: <i class="fas fa-code"></i> Python, MATLAB 필수 코딩
+linkTitle: Rudimentary Programmings
+summary: Python, MATLAB
 date: '2023-03-11'
-type: book
+type: practice
 tags:
   - current
 ---
