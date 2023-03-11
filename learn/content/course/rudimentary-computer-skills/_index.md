@@ -1,6 +1,6 @@
 ---
-title: 👩‍💻 Rudimentary Programming
-linkTitle: Rudimentary Programming
+title: 👩‍💻 Learn Essential Computer Programming
+linkTitle: Essential Computer Programming
 summary: Python, MATLAB
 date: '2023-03-11'
 type: practice
