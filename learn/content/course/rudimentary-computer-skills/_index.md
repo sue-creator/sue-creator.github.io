@@ -1,6 +1,6 @@
 ---
-title: 👩‍💻 Python, MATLAB 기초 프로그래밍
-linkTitle: 기초 프로그래밍
+title: 👩‍💻 Rudimentary Programming
+linkTitle: Rudimentary Programming
 summary: Python, MATLAB
 date: '2023-03-11'
 type: practice
