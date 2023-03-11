@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hwang Suehyeon
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Python Instructor
+role: Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Pusan Natioanl University
     url: ''
-
+<!-- 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -32,6 +32,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
+-->
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,13 +41,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 'mailto:hwang.sue.hyeon@gmail.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sue-creator
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -60,4 +58,4 @@ user_groups:
   - Teachers
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+🙋 Hi, there. 
