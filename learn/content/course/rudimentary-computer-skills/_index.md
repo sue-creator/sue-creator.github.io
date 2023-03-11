@@ -1,6 +1,6 @@
 ---
-title: <i class="fas fa-code"></i> Python, MATLAB 필수 코딩
-linkTitle: Rudimentary Programmings
+title: ⌨️ Python, MATLAB 기초 프로그래밍
+linkTitle: 기초 프로그래밍
 summary: Python, MATLAB
 date: '2023-03-11'
 type: practice
